@@ -11,6 +11,30 @@ git clone https://github.com/epfl_theos/aiida-hydrogen-restorer .
 pip install -e aiida-hydrogen-restorer
 ```
 
+## 📌 How to cite
+
+If you find this project useful in your research, please consider citing:
+
+
+> Reents, T., Cantarella, A., Bercx, M., Bonfà, and Pizzi, G. Score-based diffusion models for accurate crystal-structure inpainting and reconstruction of hydrogen positions. *npj Comput. Mater.* **12**, 203 (2026). https://doi.org/10.1038/s41524-026-02090-1
+
+
+```bibtex
+@article{Reents2026,
+  title = {Score-based diffusion models for accurate crystal-structure inpainting and reconstruction of hydrogen positions},
+  volume = {12},
+  ISSN = {2057-3960},
+  url = {http://dx.doi.org/10.1038/s41524-026-02090-1},
+  DOI = {10.1038/s41524-026-02090-1},
+  number = {1},
+  journal = {npj Computational Materials},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Reents,  Timo and Cantarella,  Arianna and Bercx,  Marnik and Bonfà,  Pietro and Pizzi,  Giovanni},
+  year = {2026},
+  month = June
+}
+```
+
 ## 📜 License
 
 MIT
